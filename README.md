@@ -1,4 +1,4 @@
-# ⚠ IMPORTANT ⚠
+#24292E ⚠ IMPORTANT ⚠
 Playstore decided to remove it (Google is the person to blame). 
 The sources are still available here and you can still find latest APK on https://apkpure.com/whid-mobile-connector/whid.usb.injector
 
